@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Env
+.env
+.env.*
+
+# Build
+.next/
+dist/
+
+# Database
+*.db
+
+# OS
+.DS_Store
+
+# Local vector database
+chroma_db/
+
+# Internal/company documents
+data/
